@@ -2,6 +2,8 @@
 
 A modern, unified frontend launcher for Android that brings all your games together in one beautiful interface. Play games from multiple emulators - retro classics, modern platforms, and everything in between - without juggling between different apps.
 
+![Demo GIF](assets/UIDemo.gif)
+
 ## 📥 Download
 
 **Latest Release:** [v0.3.0](https://github.com/retrohrai/Releases/releases/latest)
