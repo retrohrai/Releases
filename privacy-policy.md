@@ -45,6 +45,7 @@ Please review the privacy policies of these services:
 - [TheGamesDB](https://thegamesdb.net/)
 - [ScreenScraper.fr](https://www.screenscraper.fr/)
 - [SteamGridDB](https://www.steamgriddb.com/)
+
 Data sent to these services is governed by their respective privacy policies.
 
 ## Data Sharing
