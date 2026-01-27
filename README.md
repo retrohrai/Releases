@@ -6,7 +6,7 @@ A modern, unified frontend launcher for Android that brings all your games toget
 
 ## 📥 Download
 
-**Latest Release:** [v0.3.0](https://github.com/retrohrai/Releases/releases/latest)
+**Latest Release:** [v0.3.1](https://github.com/retrohrai/Releases/releases/latest)
 
 Download the APK file from the latest release and install it on your Android device.
 
