@@ -2,7 +2,8 @@
 
 A modern, unified frontend launcher for Android that brings all your games together in one beautiful interface. Play games from multiple emulators - retro classics, modern platforms, and everything in between - without juggling between different apps.
 
-![Demo GIF](assets/UIDemo.gif)
+![Demo Platforms](assets/UIDemo0.4.0(1).gif)
+![Demo Carousel](assets/UIDemo0.4.0(2).gif)
 
 ## 📥 Download
 
