@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "id": "retro-v0.5.0",
+      "name": "Retro v0.5.0",
+      "author": "RetroHrai!",
+      "description": "Animated system-collection backgrounds and console folder icons for the major platforms; collection labels are set in the Splatink font.",
+      "version": 1,
+      "contains": [
+        "BACKGROUNDS",
+        "ICONS"
+      ],
+      "previewImageUrl": "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/screenshot1.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/screenshot1.png",
+        "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/screenshot2.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/retro-v0.5.0.zip",
+      "sizeBytes": 12967928,
+      "credits": [
+        {
+          "asset": "Platform / console folder icons",
+          "author": "Spectre Frontend",
+          "url": "https://spectre-frontend.itch.io/console-folder-icons"
+        },
+        {
+          "asset": "Collection label font (Splatink)",
+          "author": "Mâns Grebäck",
+          "url": "https://www.dafont.com/splatink-2.font"
+        }
+      ]
+    }
+  ]
+}
