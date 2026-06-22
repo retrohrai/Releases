@@ -30,6 +30,32 @@
           "url": "https://www.dafont.com/splatink-2.font"
         }
       ]
+    },
+    {
+      "id": "nature-v0.4.0",
+      "name": "Nature v0.4.0",
+      "author": "RetroHrai!",
+      "description": "Lush animated nature backgrounds and console logos for the major platforms and system collections.",
+      "version": 1,
+      "contains": [
+        "BACKGROUNDS",
+        "LOGOS"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/nature-v0.4.0.zip",
+      "sizeBytes": 10177342,
+      "sha256": "607f7eed58d7cf21b5525388c9b68431212061e2959522cb25dae6c3dd41398b",
+      "credits": [
+        {
+          "asset": "Most platform / collection backgrounds (GIFs)",
+          "author": "Anas Abdin",
+          "url": "https://x.com/AnasAbdin"
+        },
+        {
+          "asset": "Console logos (Console Logos Professionally Redrawn + Official Versions)",
+          "author": "Dan Patrick",
+          "url": "https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions"
+        }
+      ]
     }
   ]
 }
