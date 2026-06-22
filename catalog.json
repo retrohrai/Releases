@@ -41,9 +41,14 @@
         "BACKGROUNDS",
         "LOGOS"
       ],
+      "previewImageUrl": "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/screenshot1.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/screenshot1.png",
+        "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/screenshot2.png"
+      ],
       "downloadUrl": "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/nature-v0.4.0.zip",
-      "sizeBytes": 10177342,
-      "sha256": "607f7eed58d7cf21b5525388c9b68431212061e2959522cb25dae6c3dd41398b",
+      "sizeBytes": 11588053,
+      "sha256": "90b2dac7cbd4343db611b7c63a8321f861bedc4379b8afbdfabe51ee5b967ca4",
       "credits": [
         {
           "asset": "Most platform / collection backgrounds (GIFs)",
