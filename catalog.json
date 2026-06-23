@@ -17,7 +17,8 @@
         "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/screenshot2.png"
       ],
       "downloadUrl": "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/retro-v0.5.0.zip",
-      "sizeBytes": 12967928,
+      "sizeBytes": 12968089,
+      "sha256": "68eabb0cd62b471c5d63191ecadbd9322837a13f452fde7cc3ab334a44a1ee3c",
       "credits": [
         {
           "asset": "Platform / console folder icons",
@@ -47,8 +48,8 @@
         "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/screenshot2.png"
       ],
       "downloadUrl": "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/nature-v0.4.0.zip",
-      "sizeBytes": 11588053,
-      "sha256": "90b2dac7cbd4343db611b7c63a8321f861bedc4379b8afbdfabe51ee5b967ca4",
+      "sizeBytes": 11588212,
+      "sha256": "672632b1d586ce99e5db161e6f07f872c57fc57750da61bf1bbc155b35064f0d",
       "credits": [
         {
           "asset": "Most platform / collection backgrounds (GIFs)",
