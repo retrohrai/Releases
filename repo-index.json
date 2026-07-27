@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "id": "retro-v0.5.0",
+      "name": "Retro v0.5.0",
+      "author": "RetroHrai!",
+      "description": "Animated system-collection backgrounds and console folder icons for the major platforms; collection labels are set in the Splatink font.",
+      "version": 1,
+      "contains": [
+        "BACKGROUNDS",
+        "ICONS"
+      ],
+      "hasSettingsPreset": true,
+      "previewImageUrl": "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/screenshot1.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/screenshot1.png",
+        "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/screenshot2.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/retrohrai/v0.5.0-retro-theme/main/retro-v0.5.0.zip",
+      "sizeBytes": 12968089,
+      "sha256": "68eabb0cd62b471c5d63191ecadbd9322837a13f452fde7cc3ab334a44a1ee3c",
+      "credits": [
+        {
+          "asset": "Platform / console folder icons",
+          "author": "Spectre Frontend",
+          "url": "https://spectre-frontend.itch.io/console-folder-icons"
+        },
+        {
+          "asset": "Collection label font (Splatink)",
+          "author": "Mâns Grebäck",
+          "url": "https://www.dafont.com/splatink-2.font"
+        }
+      ]
+    },
+    {
+      "id": "nature-v0.4.0",
+      "name": "Nature v0.4.0",
+      "author": "RetroHrai!",
+      "description": "Lush animated nature backgrounds and console logos for the major platforms and system collections.",
+      "version": 1,
+      "contains": [
+        "BACKGROUNDS",
+        "LOGOS"
+      ],
+      "hasSettingsPreset": true,
+      "previewImageUrl": "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/screenshot1.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/screenshot1.png",
+        "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/screenshot2.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/retrohrai/v0.4.0-nature-theme/main/nature-v0.4.0.zip",
+      "sizeBytes": 11588212,
+      "sha256": "672632b1d586ce99e5db161e6f07f872c57fc57750da61bf1bbc155b35064f0d",
+      "credits": [
+        {
+          "asset": "Most platform / collection backgrounds (GIFs)",
+          "author": "Anas Abdin",
+          "url": "https://x.com/AnasAbdin"
+        },
+        {
+          "asset": "Console logos (Console Logos Professionally Redrawn + Official Versions)",
+          "author": "Dan Patrick",
+          "url": "https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions"
+        }
+      ]
+    }
+  ]
+}
